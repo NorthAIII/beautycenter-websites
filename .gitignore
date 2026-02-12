@@ -1,0 +1,14 @@
+# Build scripts
+build.js
+build.ps1
+
+# Source JS parts (already assembled into index.html)
+app.js
+app2.js
+app3.js
+app4.js
+app5.js
+
+# OS files
+Thumbs.db
+.DS_Store
